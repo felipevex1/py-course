@@ -7,5 +7,5 @@ if entrada == 'entrar':
     print('Entrou.')
 elif entrada == 'sair':
     print('Saiu.')
-else:
+else: # Necessariamente a ultima condição precisa ser else
     print('Comando não reconhecido.')
